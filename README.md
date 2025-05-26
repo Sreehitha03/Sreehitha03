@@ -4,12 +4,12 @@
 ---
 
 #### 🌟 About Me  
-- 👀 Passionate about **Web Development**, **Data Analytics**, and exploring **cutting-edge technologies**
-- 🌱 Currently learning **Data Structures & Algorithms** to build a strong foundation in problem-solving
-- 🚀 I love building **innovative web applications** that showcase both functionality and design
-- 🤝 Open to collaboration on **tech projects**, especially ones that combine **creativity and impact**
-- 📸 Fun fact: I enjoy **photography** and find peace watching the sky! 🌤️  
-- 📫 Reach me at: **kadaverusreehitha@gmail.com**
+- Passionate about **Web Development**, **Data Analytics**, and exploring **cutting-edge technologies**
+- Currently learning **Data Structures & Algorithms** to build a strong foundation in problem-solving
+- I love building **innovative web applications** that showcase both functionality and design
+- Open to collaboration on **tech projects**, especially ones that combine **creativity and impact**
+- Fun fact: I enjoy **photography** and find peace watching the sky!  
+- Reach me at: **kadaverusreehitha@gmail.com**
 
 ---
 
@@ -37,7 +37,7 @@
 
 #### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/kadaveru-sreehitha-a43b3224b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadaveru-sreehitha-a43b3224b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kadaverusreehitha@gmail.com)
 
 

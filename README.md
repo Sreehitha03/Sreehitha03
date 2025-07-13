@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm **K. Sreehitha**  
-💻 Web Developer | 📊 Data Analyst | 🌐 Tech Explorer
+💻 Web Developer | 🌐 Tech Explorer
 
 ---
 
@@ -25,13 +25,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-#### 📈 GitHub Stats
-
-![Sreehitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreehitha03&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreehitha03&layout=compact&theme=radical)
 
 ---
 
